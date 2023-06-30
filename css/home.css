@@ -1,0 +1,131 @@
+*
+{
+    padding:0px;
+    margin: 0px;
+
+}
+
+
+.header
+{
+    width: 100%;
+    height: 200px;
+    display: inline-flex;
+    background-color: snow;
+    box-shadow: 3px 2px beige ;
+
+
+
+} 
+.container1
+{
+    border:1px solid ;
+    margin:10px;
+    width: 100%;
+    height: 400pxpx;
+    background-color:white;
+    display: inline-flex;
+
+}
+table
+{
+    width: 85%;
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: snow;
+    margin-right: 50px;
+}
+.th1
+{
+    margin-left: 300px;
+    text-align: right;
+    font-family: yu gothic;
+    font-size: 15px;
+    color: gainsboro;
+}
+.inp
+{
+    width: 350px;
+    border:ipx solid grey;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+.but
+{
+  background-color: rgb(36, 52, 58); 
+  font-family:yu gothic; 
+  width: 60px;
+  color: white;
+  border-radius: 5px;
+}
+ul
+{
+	
+	width: 70%px;
+    list-style-type: none;
+    display: inline-flex;
+    }
+
+ul li
+{
+	border: 1px solid balck;
+	font-size: 13px;
+	color: red;
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box
+{
+    width: 100%;
+    height: 410px;
+    background-color: rgb(242, 252, 252);
+    
+    
+}
+.box1
+{
+    width: 30%;
+    height: 100px;
+    background-color: rgb(18, 29, 244);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-left: 500px;
+    margin-top: 10px;
+    text-align: center;
+    border-radius:5px;
+    margin-bottom: 10px;
+    
+    
+}
+.text1
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',;
+    font-size: 50px;
+    
+}
+.box2
+{
+    width: 365px;
+    height: 350px;
+    background-color: white;
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 
+}
+.box3
+{
+    width: 80%;
+    background-color: rgb(132, 118, 118);
+    height: 80px;
+    margin-left: 100px;
+}
+.box4
+{
+    width: 80%;
+    background-color: rgb(32, 170, 209);
+    height: 80px;
+    margin-left: 100px;
+}

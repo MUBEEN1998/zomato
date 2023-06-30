@@ -1,0 +1,606 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+.container
+{
+	width: 1520px;
+	height: 450px;
+	background: url(image/hed3.jpg);
+
+}
+.logo
+{
+	width: 500px;
+	height: 100px;
+	background-color: white;
+	float: left;
+}
+.name
+{
+ width: 300px;
+	height: 100px;
+	margin-left: 580px;
+	color: white;
+	font-size: 70px;
+	font-family: Arial black;
+	font-style: italic;
+	text-shadow: 1px 5px 10px black;
+}
+
+.textbox
+{
+	width: 650px;
+	height: 50px;
+	color: white;
+	margin-left: 400px;
+	margin-top: 10px;
+   font-size: 38px;
+   font-family: Calibri ;
+}
+.search
+{
+	width: 600px;
+	height: 60px;
+	margin-top: 30px;
+	margin-left: 400px;
+
+
+
+}
+.search input
+{
+	width: 650px;
+	height: 40px;
+	padding: 5px;
+	border-radius:5px;
+	border-color: white;
+	border: 3px solid white;
+	box-shadow: 1px 2px 3px;
+	font-size: 20px;
+	transition: all 1s;
+
+
+}
+.search input:hover
+{
+	transform: scale(1,1.1);
+			z-index: 1;
+}
+
+.Manue
+{
+	width: 600px;
+	height: 50px;
+	margin-left:800px;
+	font-size: 25px;
+	color: white;
+	padding-top: 20px;
+	float: left;
+	font-family: calibri;
+	text-decoration: none;
+	position: fixed;
+
+}
+.Manue ol 
+{
+	
+	list-style-type: none;
+	display: inline-flex;
+	margin-left:100px;
+	margin-right:px px;
+	padding: 5px;
+
+
+}
+.Manue li{
+	margin-left: 50px;
+	
+}
+
+.Manue a 
+{
+	text-decoration: none;
+	color: white;
+}
+
+
+{
+	width: 500px;
+	background-color: black;
+	color: white;
+	margin-top: 200px;
+}
+.orders 
+{
+	width: 90%;
+	height: 300px;
+	margin: 100px;
+}
+.ibox
+{
+	width: 325px;
+	height: 350px;
+	margin-left: 100px;
+	float: left;
+	font-family: calibri;
+	font-size: 25px;
+	border: 2px solid white;
+	box-shadow: 1px 3px 5px black;
+	text-align: center;
+	border-radius: 20px;
+	transition: all 1s;
+
+}
+
+.ibox a 
+{
+	text-decoration: none;
+	color: black;
+}
+
+.ibox img
+{
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+.ibox:hover
+{
+	transform: scale(1,1.1);
+			z-index: 1;
+}
+
+.city
+{
+	width: 340px;
+	height: 60px;
+	border-radius: 5px;
+	border: 1px solid white;
+	box-shadow: 1px 5px 5px;
+	font-size: 30px;
+	padding-top: 10px;
+	float: left;
+	background-color:white;
+	margin-left: 60px;
+	margin-top: 30px;
+	color: rgb(90, 63, 116);
+}
+
+
+.app 
+{
+	width: 500px;
+	height: 400px;
+	margin-left: 50px;
+	float: left;
+	padding: 20px;
+	padding-top: 40px;
+
+
+}
+.app img
+{
+	border-top-right-radius: 100px;
+	border-bottom-left-radius:100px ;
+}
+
+.app1
+{
+	width: 500px;
+	height: 50px;
+	margin-top: 10px;
+	font-size: 18px;
+	margin-left: 300px;
+
+}
+
+
+
+
+.app1 button
+{
+	width: 150px;
+	height: 40px;
+	border-radius: 5px;
+	border: 1px solid blue;
+	font-size: 15px;
+	color: white;
+	margin-left: 20px;
+	background-color: blue;
+}
+
+option 
+{
+	font-size: 15px;
+	font-family: Arial;
+    
+
+}
+
+.collection
+{
+	width: 250px;
+	height: 300px;
+	border-radius: 5px;
+	float: left;
+	margin-left: 50px;
+	background-color: red;
+	margin-top: 20px;
+	color: white;
+	font-size: 20px;
+	transition: all 1s;
+	text-shadow: 1px 2px 5px black;
+
+
+}
+
+
+.collection:hover
+	{
+		width: 260px;
+		height: 310px;
+	}
+
+
+.hop
+{
+	width: 250px;
+	height: 20px;
+	font-size: 25px;
+	margin-top: 240px;
+	color: white;
+	text-shadow: 5px 10px 10px black;
+	transition: all 1s;
+}
+.hop:hover
+		{
+		transform: scale(1,1.1);
+			z-index: 1;
+		background color: red;
+		} 
+
+
+
+
+/*----- order page-------*/
+
+.obox
+{
+	width: 100px;
+	height: 75px;
+	float: left;
+	margin-left: 100px;
+	font-size: 40px;
+	font-family: Arial black;
+	color: rosybrown;
+	font-style: italic;
+	float: left;
+	margin-top: 40px;
+
+}
+
+.obox1
+{
+	width: 800px;
+	height: 75px;
+	background-color: ornage;
+	float: left;
+	margin-left: 50px;
+	margin-top: 40px;
+}
+
+.obox1 input
+{
+	width: 800px;
+	height: 50px;
+	border: 2px solid white;
+	border-radius: 5px;
+	box-shadow: 2px 5px 3px;
+	margin-left: 50px;
+	float: left;
+}
+
+
+
+
+.lbox
+{
+	width: 80px;
+	height: 40px;
+	margin-top: 40px;
+	margin-left: 50px;
+	float: left;
+}
+
+
+
+#but
+{
+	width: 80px;
+	height: 40px;
+	background-color: rgb(4, 3, 1);
+	color: white;
+	border-radius: 50px;
+	border-color: white;
+	border-radius: 10px 3px 5px;
+
+
+}
+
+
+.info
+{
+	width: 500px;
+	height: 300px;
+	float: left;
+	font-family: Segoe Print;
+	font-size: 17px;
+	color: rgb(50, 60, 168);
+	margin-top: 50px;
+
+}
+.info img
+{
+	box-shadow: 2px 1px 5px;
+	border-radius: 10px;
+	width: 320px;
+	height: 350px;
+	border: 5px solid yellow;
+	margin-top: 50px;
+}
+
+#ani
+		{
+			animation-name: anim;
+			animation-duration: 5s;
+			animation-iteration-count: infinite;
+			position: relative;
+
+		}
+
+		@keyframes anim
+
+		{
+			from 
+			{
+				border-top-right-radius: 0px;
+				border-top-left-radius:0px;
+				border-bottom-right-radius:0px;
+				border-bottom-left-radius:0px;
+			}
+
+			to
+			{
+				border-top-right-radius: 100px;
+				border-top-left-radius:100px;
+				border-bottom-right-radius:100px;
+				border-bottom-left-radius:100px;
+			}
+
+		}
+
+.about
+{
+	width: 400px;
+	height: 50px;
+	background-color: red;
+	border-radius: 10px;
+	margin-bottom: 50px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	font-family: calibri;
+	border: 5px solid yellow;
+}
+
+
+.lbut
+{
+	width: 80%;
+	height: 100px;
+	margin-top: 70px;
+
+}
+
+.lbut button
+{
+	width: 150px;
+	height: 50px;
+	background: rgb(78,56.25);
+	border-radius: 100px;
+	margin-left: 50px;
+	float: left;
+
+}
+#anim 
+{
+	animation-name: sa;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
+
+}
+
+@keyframes sa 
+{
+	25%{background-color: red;}
+	50%{background-color: skyblue;}
+	75%{background-color: black;}
+	100%{background-color: pink;}
+}
+
+.lbox2
+{
+	width: 250px;
+	height: 250px;
+	float: left;
+	background-color: white;
+	margin-left: 50px;
+	font-size: 25px;
+	color: red;
+	text-align: center;
+	text-shadow: 1px 2px 3px;
+}
+
+.head
+{
+	width: 600px;
+	height: 100px;
+	border-radius: 10px solid white;
+	box-shadow: 1px 2px 5px;
+	background: white;
+	margin-left: 500px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-top-left-radius: 100px;
+	border-bottom-right-radius: 100px;
+	font-size: 30px;
+
+}
+
+
+.lbloc
+{
+	width: 350px;
+	height: 335px;
+	border-radius: 10px solid white;
+	box-shadow: 1px 2px 5px;
+	float: left;
+	margin-left: 100px;
+	background: white;
+	border-radius: 10px;
+	font-family: Arial;
+	font-size: 20px;
+	text-align: center;
+}
+
+.lbloc img
+{
+	border-radius: 10px;
+
+}
+.lbloc img:hover
+{
+	transform: scale(1,1.1);
+			z-index: 0: 0.5;
+}
+
+.lbloc button
+{
+	width: 100px;
+	height: 30px;
+	background: red;
+	border-radius:50px;
+	border: 2px solid red;
+	margin-top:5px;
+	color: white;
+	font-size: 15px;
+}
+.lbox3
+{
+	width: 500px;
+	height: 500px;
+	margin-left: 100px;
+	float: left;
+	font-size: 70px;
+	font-family: arial;
+	color: white;
+	text-shadow: 2px 0px 10px black;
+}
+
+.foot
+{
+	width: 100%;
+	height: 500px;
+	background-color: rgb(237, 48, 5);
+
+
+}
+.foot1
+{ 
+	width: 80%;
+	height: 250px;
+
+	margin-left: 120px;
+	margin-top: 100px;
+
+
+}
+
+
+.cup
+{
+	width: 150px;
+	height: 100px;
+	float: left;
+	margin-left: 40px;
+	font-size: 50px;
+	font-family: Arial block;
+	color: white;
+	margin-top: 50px;
+	text-shadow: 1px 2px 5px black;
+
+}
+.cup button
+{
+	width: 150px;
+	height: 50px;
+	background-color: transparent;
+	border-radius: 5px;
+	border: 1px solid black;
+	font-size: 20px;
+	color: white;
+
+
+}
+
+.cell1
+{
+	width: 180px;
+	height: 200px;
+	font-size: 23px;
+	float: left;
+	margin-left: 50px;
+	color: white;
+	text-shadow: 1px 2px 5px black;
+}
+
+.cell1 ol
+
+{
+	list-style-type: none;
+	font-size: 20px;
+	margin-top: 20px;
+	text-shadow: 1px 2px 5px;
+
+}
+
+li
+{
+	margin-top: 5px;
+	text-shadow: 1px 2px 5px black;
+}
+
+#anio 
+{
+	animation-name: text;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+	position: alternate;
+}
+@keyframes text
+ {
+ 	from
+	{
+		font-size: 50px;
+	}
+to
+	{
+		font-size: 80px;
+
+
+
+ 	
+ }

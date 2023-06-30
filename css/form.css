@@ -1,0 +1,27 @@
+div
+{
+	border: 1px solid;
+	padding: 50px 40px;
+	margin-left: 300px;
+	margin-right: 300px;
+	border-radius: 40px;
+	margin-top: 100px;
+	border: none;
+	background: linear-gradient(to right,rgb(100,1,0,1),rgb(255,0,1,1));
+}
+
+form
+{
+	margin-left: 200px;
+	padding: 10px 40px;
+	color: white;
+}
+label[type=text]
+{
+	font-size: 20px;
+	color: whitesmoke;
+}
+button[type=submit]
+{
+	border-radius: 60px 90px;
+}

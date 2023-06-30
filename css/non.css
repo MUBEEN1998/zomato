@@ -1,0 +1,448 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+.navi
+{
+	width: 200px;
+	height: 50px;
+	font-family: arial black;
+	font-style: italic;
+	color:red;
+	font-size: 50px;
+	padding-top: 50px;
+	margin-left: 100px;
+
+}
+
+.navi1
+{
+	width: 1000px;
+	height:140px;
+	font-family: arial black;
+	color:white;
+	font-size: 40px;
+	margin-left: 250px;
+	margin-top: 250px;
+	
+
+
+}
+.navi1 :hover
+{
+	color: blue;
+}
+.dishesh
+{
+	width: 600px;
+	height: 100px;
+	margin-top: 100px;
+	margin-left: 150px;
+	font-size: 40px;
+	font-family: Arial black;
+	text-decoration: underline;
+	text-decoration-color: rosybrown;
+
+}
+
+.dish
+{
+	width: 400px;
+	height: 420px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+	font-family: Bahnschrift;
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid white;
+	box-shadow: 2px 5px 5px black ;
+	border-radius: 20px;
+	padding-top: 10px;
+	color: blue;
+
+
+}
+.dish img
+{
+	width: 380px;
+	height: 350px;
+	border-radius: 20px;
+
+}
+
+
+.dish button
+{
+	width: 100px;
+	height: 40px;
+	font-family: Bahnschrift;
+	margin-left: 30px;
+	font-size: 15px;
+	background: green;
+	border-radius: 5px;
+	border: 1px solid white;
+	color: white;
+}
+.dish :hover
+{
+	width: 400px;
+	height: 360px;
+}
+
+
+.foot
+{
+	width: 100%;
+	height: 500px;
+	background-color: rgb(237, 48, 5);
+
+
+}
+.foot1
+{ 
+	width: 80%;
+	height: 250px;
+
+	margin-left: 120px;
+	margin-top: 100px;
+
+
+}
+
+
+.cup
+{
+	width: 150px;
+	height: 100px;
+	float: left;
+	margin-left: 40px;
+	font-size: 50px;
+	font-family: Arial block;
+	color: white;
+	margin-top: 50px;
+	text-shadow: 1px 5px 10px black;
+
+}
+.cup button
+{
+	width: 150px;
+	height: 50px;
+	background-color: rgb(18, 87, 224);
+	border-radius: 5px;
+	border: 1px solid rgb(20, 111, 222);
+	font-size: 15px;
+
+}
+
+.cell1
+{
+	width: 180px;
+	height: 200px;
+	font-size: 25px;
+	float: left;
+	margin-left: 50px;
+	color: white;
+	text-shadow: 1px 5px 10px black;
+}
+
+.cell1 ol
+
+{
+	list-style-type: none;
+	font-size: 20px;
+	margin-top: 20px;
+	text-shadow: 1px 5px 10px black;
+}
+
+/*----- invest-------*/
+
+.but1
+{
+	width:100px ;
+	height: 50px;
+	border-radius: 10px;
+	font-size: 15px;
+	float: left;
+	background-color: transparent;
+	color: white;
+	font-family: arial;
+	border: 1px solid white;
+
+}
+.but2
+{
+	width: 200px;
+	height: 50px;
+	background-color: red;
+	border-radius: 5px;
+	color: white;
+	font-size: 15px;
+	margin-left: 100px;
+	border-color: red;
+}
+
+.fort
+{
+	width: 700px;
+	height: 600px;
+	margin-left: 300px;
+	margin-top: 60px;
+}
+
+.box1
+{
+	width: 700px;
+	margin-left: 20px;
+	height: 50px;
+	margin-top: 30px;
+	font-size: 40px;
+	font-family: arial;
+	color: white;
+	text-shadow: 0px 5px 20px;
+	
+
+
+}
+.box1 button
+{
+	width: 280px;
+	height: 50px;
+	border-radius: 5px;
+	float: left;
+	font-size: 15px;
+	color: white;
+	margin-left: 20px;
+	border: 1px solid red;
+	background-color: red;
+}
+
+.box2
+{
+	width: 700px;
+	height: 300px;
+	margin-top: 30px;
+	border: 1px solid white;
+	padding-top: 30px;
+	box shadow: 1px 2px 5px;
+	border-radius: 10px;
+
+
+
+
+}
+.box3
+{
+	width:520px;
+	height: 100px;
+	margin-left: 80px;
+	font-size: 35px;
+	text-align: center;
+	font-family: arial;
+	color: darkred;
+}
+
+.con 
+{
+	width: 220px;
+	height: 200px;
+	margin-left: 100px;
+	float: left;
+}
+.con li
+{
+ margin-top: 20px;
+ font-size: 18px;
+ color: darkred;
+ font-family: arial;
+
+}
+.all
+{
+	width: 700px;
+	height: 50px;
+	margin-left: 400px;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 40px;
+	font-family: arial;
+	color: darkred;
+}
+
+.all p 
+{
+	font-size: 20px;
+
+}
+
+.all input 
+{
+	width: 800px;
+	height: 50px;
+	border-radius: 5px;
+	border: 2px solid white;
+	 box-shadow: 1px 2px 3px;
+	margin-left: 60px;
+	font-size: 20px;
+}
+
+.blog
+{
+	width: 400px;
+	height: 60px;
+	margin-left: 500px;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+	font-family: arial;
+	text-shadow: 1px 2px 10px;
+
+}
+
+.blog1
+{
+	width: 700px;
+	height: 150px;
+	margin-left: 300px;
+	margin-top: 20px;
+
+    
+}
+
+.fon
+{
+	width: 100px;
+	height: 150px;
+	float: left;
+	padding-top: 40px;
+
+}
+.fon1
+{
+	width: 500px;
+	height: 150px;
+	margin-left: 150px;
+	font-size: 20px;
+	color: white;
+
+}
+.zom
+{
+	font-size: 40px;
+	color: white;
+	text center
+}
+
+.last
+{
+	width: 400px;
+	height: 450px;
+	float: left;
+	margin-left: 100px;
+	font-size:18px;
+	color:darkred;
+	border-radius: 10px;
+
+
+
+
+}
+
+
+.last input
+{
+	width: 380px;
+	height: 50px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: white;
+	font-size: 20px;
+	border-radius: 5px;
+	border-color: white;
+	box-shadow: 0px 0px 3px;
+}
+
+
+.last button
+{
+	width: 380px;
+	height: 50px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: red;
+	font-size: 20px;
+	border-radius: 5px;
+	color: white;
+	border: 1px solid red;
+	box shadow: 1px 2px 5px;
+}
+
+li
+{
+	margin-top: 5px;
+}
+.u 
+{
+	width: 40px;
+	height: 40px;
+	border: 1px solid white;
+	margin-top: 180px;
+	float: left;
+	margin-left: 200px;
+	border-radius: 50px;
+	background-color: white;
+	box-shadow: 1px 3px 5px;
+	text-align: center;
+	font-family: calibri;
+	font-size: 30px;
+}
+
+.photo
+{
+	width: 300px;
+	height: 350px;
+	margin-left: 30px;
+	background-color: white;
+	float: left;
+	border-radius: 10px;
+	font-size: 25px;
+	font-family: calibri;
+	box-shadow: 0px 0px 10px;
+	margin-top: 30px;
+
+}
+.photo a 
+{
+	text-decoration: none;
+}
+.photo img
+{
+	width: 300px;
+	height: 180px;
+	border-top-left-radius:10px ;
+	border-top-right-radius:10px ;
+}
+.photo img:hover
+{
+	transform: scale(1,1.1);
+			z-index: 0: 0.5;
+}
+
+#anio 
+{
+	animation-name: text;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+	position: alternate;
+}
+@keyframes text
+ {
+ 	from
+	{
+		font-size: 50px;
+	}
+to
+	{
+		font-size: 80px;
